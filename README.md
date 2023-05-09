@@ -1,2 +1,2 @@
 # Natural Language Processing
-## Some of my natural language processing projects from my masters in computer science.
+## Some of my natural language processing python projects from my masters in computer science.
